@@ -11,3 +11,9 @@ Rick and Morty Explorer is a React-based application that allows users to explor
 - Axios: Promise-based HTTP client for making requests to the Rick and Morty API.
 - Bootstrap: Framework for styling and responsive layout.
 - CSS: Custom styles for the application.
+  
+# Usage
+- Filter Characters: Use the filter inputs to search for characters by name, species, or status.
+- Sort by Name: Click the "Name" column header to sort characters alphabetically. Click again to toggle between ascending and descending order.
+- Pagination: Use the dropdown to navigate between pages. Each page displays 10 characters.
+- Character Details: Click on any character's row to view more detailed information about them.
