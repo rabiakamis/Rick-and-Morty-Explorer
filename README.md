@@ -17,3 +17,6 @@ Rick and Morty Explorer is a React-based application that allows users to explor
 - Sort by Name: Click the "Name" column header to sort characters alphabetically. Click again to toggle between ascending and descending order.
 - Pagination: Use the dropdown to navigate between pages. Each page displays 10 characters.
 - Character Details: Click on any character's row to view more detailed information about them.
+
+# detailed usage video
+- https://youtu.be/G0E-8v_wHs4?si=B3VRWYdXWdJzoW4T
